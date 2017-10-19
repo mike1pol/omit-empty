@@ -1,0 +1,36 @@
+{
+  "name": "@mikepol/omit-empty",
+  "version": "1.0.0",
+  "description": "Omit empty arrays, objects and strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike1pol/omit-empty.git"
+  },
+  "keywords": [
+    "clear",
+    "omit",
+    "empty",
+    "delete",
+    "object",
+    "array"
+  ],
+  "author": "Mikhail Poluboyarinov <mikle.sol@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike1pol/omit-empty/issues"
+  },
+  "homepage": "https://github.com/mike1pol/omit-empty#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
