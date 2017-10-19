@@ -4,7 +4,7 @@
 Recursively omit empty properties from an object. Omits empty objects, arrays, strings or zero.
 
 ## Install
-```npm i -s @mike1pol/omit-empty```
+```npm i -s @mikepol/omit-empty```
 
 ## Usage
 
